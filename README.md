@@ -2,6 +2,8 @@
 
 ![screenshot](./app_screenshot.png)
 
+App built with React Native where it uses the Pomodoro Technique to focus for a specific amount of time on a subject. The state was managed with React Hooks (useState). 
+
 ## Built With
 
 - Expo-app
